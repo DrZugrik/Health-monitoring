@@ -5,15 +5,15 @@ One point monitoring of health
 
 This project was created to make free every day carry health monitor.
 
-This device include few parts:
+This device include three parts:
 
 1. Sensors
 1.1 Sensors of health
 1.2 Environmental sensors
 
-Part 2. GPS/GLONASS
+2. GPS/GLONASS
 
-Part 3. Free energy
+3. Free energy
 
 
 
@@ -39,4 +39,4 @@ At firs we used Arduino controler (Meag8), but letter code will be ported in STM
 
 1.2.3 Radiation sensor
 
-1.2.4 
+1.2.4 Accelerometer
